@@ -6,7 +6,7 @@
 ## 🚀 __Getting Started__
 Prerequisites
 
-* Python 3.8+
+* Python
 * SQL Server & SQL Server Management Studio (SSMS)
 * Kaggle API credentials
 
